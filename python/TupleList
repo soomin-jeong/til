@@ -1,0 +1,8 @@
+List vs Tuple
+
+1) Common:
+  1. stores a sequence of items
+  2. can store any type of data (str, int, ...)
+  3. can access items by index
+
+2) Different
