@@ -1,4 +1,9 @@
+# 20190903
+
 List vs Tuple
+
+list: [a, b, c]
+tuple: (a, b, c)
 
 1) Common:
   1. stores a sequence of items
@@ -6,3 +11,8 @@ List vs Tuple
   3. can access items by index
 
 2) Different
+  1. list is *mutable* and tuple is *immutable*
+  2. therefore list allows append yet the tuple does not.
+
+3) + Essence of immutability
+  It guarantees better memory efficiency.
